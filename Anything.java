@@ -5,6 +5,6 @@ public class Anything {
         int y = 10;
         int z = x + y;
 
-        System.out.println(z);
+        System.out.println("Z = " + z);
     }
 }
